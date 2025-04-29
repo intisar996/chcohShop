@@ -1,0 +1,50 @@
+{
+  "welcome": "welcome to Chcho Shop",
+  "welcome-text": "Experience the exquisite pleasure of chocolates rich and velvety goodness – an eternal delight that brings joy to every taste bud.Indulge in the timeless treat that has enchanted generations, igniting smiles with every cocoa-infused moment",
+  "nav-home": "home",
+  "nav-about": "About",
+  "nav-product": "Product",
+  "nav-contact": "Contact Us",
+  "login": "Login",
+  "register": "Register",
+  "AboutUs": "About us",
+  "AboutTextHome": "We believe chocolate is more than just a treat; it s an experience that blends exquisite taste with joyful moments.We offer the finest chocolates crafted with precision from the highest quality cocoa ingredients.Our goal is to bring a touch of happiness to every occasion through our delightful creations.",
+  "White": "White",
+  "Dark": "Dark",
+  "Milk": "Milk",
+  "Truffle": "Truffle",
+  "Product": "Product",
+  "Price": "Price",
+  "Quantity": "Quantity",
+  "SubTotal": "SubTotal",
+  "Delivery fee": "Delivery fee",
+  "Total": "Total",
+  "OrderDate": "Order Date",
+  "DeliveryFree": "Orders over 100 OR qualify For Free Delivery",
+  "ShoppingCart": "ShoppingCart",
+  "OrderNumber": "Order Number",
+  "ItemsSummary": "Items Summary",
+  "Ordersummery": "Order summery",
+  "DeliveryAddress": "Delivery Address",
+  "Address": "Address",
+  "Country": "Country",
+  "City": "City",
+  "Progress": "Progress",
+  "OrderConfirming": "Order Confirming",
+  "PaymentPending": "Payment Pending",
+  "Processing": "Processing",
+  "Shipping": "Shipping",
+  "Delivered": "Delivered"
+
+
+
+
+
+
+
+
+
+
+}
+
+

@@ -1,0 +1,178 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="client\src\app\api\agent.ts" />
+    <None Remove="client\src\app\components\AppCheckBox.tsx" />
+    <None Remove="client\src\app\components\AppDropzone.tsx" />
+    <None Remove="client\src\app\components\AppPagination.tsx" />
+    <None Remove="client\src\app\components\AppSelectList.tsx" />
+    <None Remove="client\src\app\components\AppTextInput.tsx" />
+    <None Remove="client\src\app\components\CheckboxButtons.tsx" />
+    <None Remove="client\src\app\components\GoogleOAuth.tsx" />
+    <None Remove="client\src\app\components\LanguageSwitcher.tsx" />
+    <None Remove="client\src\app\components\RadioButtonGroup.tsx" />
+    <None Remove="client\src\app\context\ProductCardContext.tsx" />
+    <None Remove="client\src\app\context\StoreContext.tsx" />
+    <None Remove="client\src\app\errors\NotFound.tsx" />
+    <None Remove="client\src\app\errors\ServerError.tsx" />
+    <None Remove="client\src\app\layout\CardSlider.tsx" />
+    <None Remove="client\src\app\layout\Divider.tsx" />
+    <None Remove="client\src\app\layout\footer.tsx" />
+    <None Remove="client\src\app\layout\Header.tsx" />
+    <None Remove="client\src\app\layout\HomeAbout.tsx" />
+    <None Remove="client\src\app\layout\LoadingComponent.tsx" />
+    <None Remove="client\src\app\models\Basket.ts" />
+    <None Remove="client\src\app\models\order.ts" />
+    <None Remove="client\src\app\models\pagination.ts" />
+    <None Remove="client\src\app\models\Register.ts" />
+    <None Remove="client\src\app\models\User.ts" />
+    <None Remove="client\src\app\router\RequireAuth.tsx" />
+    <None Remove="client\src\app\router\Routes.tsx" />
+    <None Remove="client\src\app\utill\utill.ts" />
+    <None Remove="client\src\features\about\AboutPage.tsx" />
+    <None Remove="client\src\features\Account\accountSlice.ts" />
+    <None Remove="client\src\features\Account\Login.tsx" />
+    <None Remove="client\src\features\Account\Register.tsx" />
+    <None Remove="client\src\features\Admin\ProductForm.tsx" />
+    <None Remove="client\src\features\Admin\productValidation.tsx" />
+    <None Remove="client\src\features\Basket\BasketPage.tsx" />
+    <None Remove="client\src\features\Basket\BasketSlice.ts" />
+    <None Remove="client\src\features\Basket\BasketSummary.tsx" />
+    <None Remove="client\src\features\Basket\BasketTable.tsx" />
+    <None Remove="client\src\features\CheckOut\AddressForm‎.tsx" />
+    <None Remove="client\src\features\CheckOut\CheckoutStepper.tsx" />
+    <None Remove="client\src\features\CheckOut\checkoutValidation.ts" />
+    <None Remove="client\src\features\CheckOut\CheckoutWrapper.tsx" />
+    <None Remove="client\src\features\CheckOut\Info.tsx" />
+    <None Remove="client\src\features\CheckOut\InfoMobile.tsx" />
+    <None Remove="client\src\features\CheckOut\PaymentForm.tsx" />
+    <None Remove="client\src\features\CheckOut\Review.tsx" />
+    <None Remove="client\src\features\CheckOut\SitemarkIcon.tsx" />
+    <None Remove="client\src\features\CheckOut\StripeInput.tsx" />
+    <None Remove="client\src\features\orders\OrderDetailes.tsx" />
+    <None Remove="client\src\features\orders\OrderSlice.ts" />
+    <None Remove="client\src\features\Product\ProductCard.tsx" />
+    <None Remove="client\src\features\Product\ProductCardSkeleton.tsx" />
+    <None Remove="client\src\features\Product\ProductDetails.tsx" />
+    <None Remove="client\src\features\Product\ProductList.tsx" />
+    <None Remove="client\src\features\Product\ProductSearch.tsx" />
+    <None Remove="client\src\features\contact\ContactPage.tsx" />
+    <None Remove="client\src\features\contact\counterReducer.ts" />
+    <None Remove="client\src\features\contact\CounterSlices.ts" />
+    <None Remove="client\src\features\Home\HomePage.tsx" />
+    <None Remove="client\src\hooks\useProducts.tsx" />
+    <None Remove="client\src\product.ts" />
+    <None Remove="client\src\store\configureStore.ts" />
+    <None Remove="client\src\Translation\i18n.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
+    <PackageReference Include="CloudinaryDotNet" Version="1.27.5" />
+    <PackageReference Include="Google.Apis.Auth" Version="1.68.0" />
+    <PackageReference Include="log4net" Version="3.0.3" />
+    <PackageReference Include="MailKit" Version="4.9.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Exchange.WebServices" Version="2.2.0" />
+    <PackageReference Include="MimeKit" Version="4.9.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.1" />
+    <PackageReference Include="Stripe.net" Version="47.3.0-beta.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="client\src\app\api\agent.ts" />
+    <TypeScriptCompile Include="client\src\app\components\AppCheckBox.tsx" />
+    <TypeScriptCompile Include="client\src\app\components\AppDropzone.tsx" />
+    <TypeScriptCompile Include="client\src\app\components\AppPagination.tsx" />
+    <TypeScriptCompile Include="client\src\app\components\AppSelectList.tsx" />
+    <TypeScriptCompile Include="client\src\app\components\AppTextInput.tsx" />
+    <TypeScriptCompile Include="client\src\app\components\CheckboxButtons.tsx" />
+    <TypeScriptCompile Include="client\src\app\components\GoogleOAuth.tsx" />
+    <TypeScriptCompile Include="client\src\app\components\LanguageSwitcher.tsx" />
+    <TypeScriptCompile Include="client\src\app\components\RadioButtonGroup.tsx" />
+    <TypeScriptCompile Include="client\src\app\context\ProductCardContext.tsx" />
+    <TypeScriptCompile Include="client\src\app\context\StoreContext.tsx" />
+    <TypeScriptCompile Include="client\src\app\errors\NotFound.tsx" />
+    <TypeScriptCompile Include="client\src\app\errors\ServerError.tsx" />
+    <TypeScriptCompile Include="client\src\app\layout\CardSlider.tsx" />
+    <TypeScriptCompile Include="client\src\app\layout\Divider.tsx" />
+    <TypeScriptCompile Include="client\src\app\layout\footer.tsx" />
+    <TypeScriptCompile Include="client\src\app\layout\Header.tsx" />
+    <TypeScriptCompile Include="client\src\app\layout\HomeAbout.tsx" />
+    <TypeScriptCompile Include="client\src\app\layout\Navbar.tsx" />
+    <TypeScriptCompile Include="client\src\app\layout\LoadingComponent.tsx" />
+    <TypeScriptCompile Include="client\src\app\layout\SignedInMenu.tsx" />
+    <TypeScriptCompile Include="client\src\app\models\Basket.ts" />
+    <TypeScriptCompile Include="client\src\app\models\order.ts" />
+    <TypeScriptCompile Include="client\src\app\models\pagination.ts" />
+    <TypeScriptCompile Include="client\src\app\models\product.ts" />
+    <TypeScriptCompile Include="client\src\app\models\ApiResponse.ts" />
+    <TypeScriptCompile Include="client\src\app\models\Register.ts" />
+    <TypeScriptCompile Include="client\src\app\models\User.ts" />
+    <TypeScriptCompile Include="client\src\app\router\RequireAuth.tsx" />
+    <TypeScriptCompile Include="client\src\app\router\Routes.tsx" />
+    <TypeScriptCompile Include="client\src\app\utill\utill.ts" />
+    <TypeScriptCompile Include="client\src\features\about\AboutPage.tsx" />
+    <TypeScriptCompile Include="client\src\features\Account\accountSlice.ts" />
+    <TypeScriptCompile Include="client\src\features\Account\Login.tsx" />
+    <TypeScriptCompile Include="client\src\features\Account\Register.tsx" />
+    <TypeScriptCompile Include="client\src\features\Admin\ProductForm.tsx" />
+    <TypeScriptCompile Include="client\src\features\Admin\productValidation.tsx" />
+    <TypeScriptCompile Include="client\src\features\Basket\BasketPage.tsx" />
+    <TypeScriptCompile Include="client\src\features\Basket\BasketSlice.ts" />
+    <TypeScriptCompile Include="client\src\features\Basket\BasketSummary.tsx" />
+    <TypeScriptCompile Include="client\src\features\Basket\BasketTable.tsx" />
+    <TypeScriptCompile Include="client\src\features\CheckOut\AddressForm‎.tsx" />
+    <TypeScriptCompile Include="client\src\features\CheckOut\CheckoutStepper.tsx" />
+    <TypeScriptCompile Include="client\src\features\CheckOut\checkoutValidation.ts" />
+    <TypeScriptCompile Include="client\src\features\CheckOut\CheckoutWrapper.tsx" />
+    <TypeScriptCompile Include="client\src\features\CheckOut\Info.tsx" />
+    <TypeScriptCompile Include="client\src\features\CheckOut\InfoMobile.tsx" />
+    <TypeScriptCompile Include="client\src\features\CheckOut\PaymentForm.tsx" />
+    <TypeScriptCompile Include="client\src\features\CheckOut\Review.tsx" />
+    <TypeScriptCompile Include="client\src\features\CheckOut\SitemarkIcon.tsx" />
+    <TypeScriptCompile Include="client\src\features\CheckOut\StripeInput.tsx" />
+    <TypeScriptCompile Include="client\src\features\orders\OrderDetailes.tsx" />
+    <TypeScriptCompile Include="client\src\features\orders\Orders.tsx" />
+    <TypeScriptCompile Include="client\src\features\orders\OrderSlice.ts" />
+    <TypeScriptCompile Include="client\src\features\Product\Product.tsx" />
+    <TypeScriptCompile Include="client\src\features\Product\productSlice.ts" />
+    <TypeScriptCompile Include="client\src\features\Product\ProductCard.tsx" />
+    <TypeScriptCompile Include="client\src\features\Product\ProductCardSkeleton.tsx" />
+    <TypeScriptCompile Include="client\src\features\Product\ProductDetails.tsx" />
+    <TypeScriptCompile Include="client\src\features\Product\ProductList.tsx" />
+    <TypeScriptCompile Include="client\src\features\Product\ProductSearch.tsx" />
+    <TypeScriptCompile Include="client\src\features\CheckOut\Checkout.tsx" />
+    <TypeScriptCompile Include="client\src\features\contact\ContactPage.tsx" />
+    <TypeScriptCompile Include="client\src\features\contact\counterReducer.ts" />
+    <TypeScriptCompile Include="client\src\features\contact\CounterSlices.ts" />
+    <TypeScriptCompile Include="client\src\features\Home\HomePage.tsx" />
+    <TypeScriptCompile Include="client\src\hooks\useProducts.tsx" />
+    <TypeScriptCompile Include="client\src\store\configureStore.ts" />
+    <TypeScriptCompile Include="client\src\Translation\i18n.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="assets\" />
+  </ItemGroup>
+
+</Project>

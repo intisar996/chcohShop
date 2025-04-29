@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|c:\\users\\hp\\onedrive\\desktop\\onlineshopping2024\\onlineshopping\\onlineshoppingstore\\onlineshopping\\data\\dbinitialzier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|solutionrelative:onlineshopping\\data\\dbinitialzier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|c:\\users\\hp\\onedrive\\desktop\\onlineshopping2024\\onlineshopping\\onlineshoppingstore\\onlineshopping\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|solutionrelative:onlineshopping\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|c:\\users\\hp\\onedrive\\desktop\\onlineshopping2024\\onlineshopping\\onlineshoppingstore\\onlineshopping\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|c:\\users\\hp\\onedrive\\desktop\\onlineshopping2024\\onlineshopping\\onlineshoppingstore\\onlineshopping\\extensions\\orderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|solutionrelative:onlineshopping\\extensions\\orderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|c:\\users\\hp\\onedrive\\desktop\\onlineshopping2024\\onlineshopping\\onlineshoppingstore\\onlineshopping\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|solutionrelative:onlineshopping\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|c:\\users\\hp\\onedrive\\desktop\\onlineshopping2024\\onlineshopping\\onlineshoppingstore\\onlineshopping\\dtos\\orders\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|solutionrelative:onlineshopping\\dtos\\orders\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|c:\\users\\hp\\onedrive\\desktop\\onlineshopping2024\\onlineshopping\\onlineshoppingstore\\onlineshopping\\dtos\\orders\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|solutionrelative:onlineshopping\\dtos\\orders\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|c:\\users\\hp\\onedrive\\desktop\\onlineshopping2024\\onlineshopping\\onlineshoppingstore\\onlineshopping\\dtos\\orders\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|solutionrelative:onlineshopping\\dtos\\orders\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|c:\\users\\hp\\onedrive\\desktop\\onlineshopping2024\\onlineshopping\\onlineshoppingstore\\onlineshopping\\entities\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|solutionrelative:onlineshopping\\entities\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|c:\\users\\hp\\onedrive\\desktop\\onlineshopping2024\\onlineshopping\\onlineshoppingstore\\onlineshopping\\migrations\\20250428071717_addedcolumnpaymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|solutionrelative:onlineshopping\\migrations\\20250428071717_addedcolumnpaymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "onlineShopping\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "onlineShopping\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:03:13.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250428071717_addedcolumnPaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Migrations\\20250428071717_addedcolumnPaymentStatus.cs",
+              "RelativeDocumentMoniker": "onlineShopping\\Migrations\\20250428071717_addedcolumnPaymentStatus.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Migrations\\20250428071717_addedcolumnPaymentStatus.cs",
+              "RelativeToolTip": "onlineShopping\\Migrations\\20250428071717_addedcolumnPaymentStatus.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:17:17.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "onlineShopping\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Services\\PaymentService.cs",
+              "RelativeToolTip": "onlineShopping\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAnwJ8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:16:17.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "updateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\DTOs\\Orders\\updateOrderDto.cs",
+              "RelativeDocumentMoniker": "onlineShopping\\DTOs\\Orders\\updateOrderDto.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\DTOs\\Orders\\updateOrderDto.cs",
+              "RelativeToolTip": "onlineShopping\\DTOs\\Orders\\updateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:14:58.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\DTOs\\Orders\\OrderResponseDto.cs",
+              "RelativeDocumentMoniker": "onlineShopping\\DTOs\\Orders\\OrderResponseDto.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\DTOs\\Orders\\OrderResponseDto.cs",
+              "RelativeToolTip": "onlineShopping\\DTOs\\Orders\\OrderResponseDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:14:15.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Entities\\OrderAggregate\\Order.cs",
+              "RelativeDocumentMoniker": "onlineShopping\\Entities\\OrderAggregate\\Order.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Entities\\OrderAggregate\\Order.cs",
+              "RelativeToolTip": "onlineShopping\\Entities\\OrderAggregate\\Order.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:09:31.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\DTOs\\Orders\\OrderDto.cs",
+              "RelativeDocumentMoniker": "onlineShopping\\DTOs\\Orders\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\DTOs\\Orders\\OrderDto.cs",
+              "RelativeToolTip": "onlineShopping\\DTOs\\Orders\\OrderDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:08:27.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Extensions\\OrderExtensions.cs",
+              "RelativeDocumentMoniker": "onlineShopping\\Extensions\\OrderExtensions.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Extensions\\OrderExtensions.cs",
+              "RelativeToolTip": "onlineShopping\\Extensions\\OrderExtensions.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:07:42.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "onlineShopping\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Services\\OrderService.cs",
+              "RelativeToolTip": "onlineShopping\\Services\\OrderService.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAA/wPkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:06:28.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitialzier.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Data\\DbInitialzier.cs",
+              "RelativeDocumentMoniker": "onlineShopping\\Data\\DbInitialzier.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Data\\DbInitialzier.cs",
+              "RelativeToolTip": "onlineShopping\\Data\\DbInitialzier.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:54:59.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

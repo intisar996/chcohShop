@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|c:\\users\\hp\\onedrive\\desktop\\onlineshopping2024\\onlineshopping\\onlineshoppingstore\\onlineshopping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|solutionrelative:onlineshopping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|c:\\users\\hp\\onedrive\\desktop\\onlineshopping2024\\onlineshopping\\onlineshoppingstore\\onlineshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B49A0D-4E10-4A8E-91CA-15BF92EB6FDC}|onlineShopping\\onlineShopping.csproj|solutionrelative:onlineshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\appsettings.json",
+              "RelativeDocumentMoniker": "onlineShopping\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\appsettings.json",
+              "RelativeToolTip": "onlineShopping\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T17:50:11.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Program.cs",
+              "RelativeDocumentMoniker": "onlineShopping\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\OnlineShopping2024\\onlineShopping\\onlineShoppingStore\\onlineShopping\\Program.cs",
+              "RelativeToolTip": "onlineShopping\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:50:09.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
