@@ -9,5 +9,5 @@ export function getCookie(key: string) {
 
 
 export function currencyFormat(amount: number) {
-    return 'OR' + (amount).toFixed(2);
+    return 'OR' + (amount);
 }
